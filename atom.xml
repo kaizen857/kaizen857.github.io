@@ -8,7 +8,17 @@
     <author>
       <name>kaizen857</name>
     </author>
-    <updated>2025-04-11T05:34:12.679Z</updated>
+    <updated>2025-04-11T06:10:11.000Z</updated>
+    <entry>
+        <id>https://kaizen857.github.io/2025/04/11/%E6%B5%8B%E8%AF%95%E6%96%87%E7%AB%A0/</id>
+        <title>测试文章</title>
+        <link rel="alternate" href="https://kaizen857.github.io/2025/04/11/%E6%B5%8B%E8%AF%95%E6%96%87%E7%AB%A0/"/>
+        <content type="html">&lt;h1 id=&#34;测试&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#测试&#34;&gt;#&lt;/a&gt; 测试&lt;/h1&gt;
+&lt;p&gt;这是博客上的第一篇非自动生成的文章.jpg&lt;/p&gt;
+</content>
+        <category term="test" scheme="https://kaizen857.github.io/tags/test/" />
+        <updated>2025-04-11T06:10:11.000Z</updated>
+    </entry>
     <entry>
         <id>https://kaizen857.github.io/2025/04/11/hello-world/</id>
         <title>Hello World</title>

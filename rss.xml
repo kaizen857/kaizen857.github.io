@@ -10,8 +10,18 @@
         </author>
         <description>懒得写捏~~</description>
         <language>zh-CN</language>
-        <pubDate>Fri, 11 Apr 2025 13:34:12 +0800</pubDate>
-        <lastBuildDate>Fri, 11 Apr 2025 13:34:12 +0800</lastBuildDate>
+        <pubDate>Fri, 11 Apr 2025 14:10:11 +0800</pubDate>
+        <lastBuildDate>Fri, 11 Apr 2025 14:10:11 +0800</lastBuildDate>
+        <item>
+            <guid isPermalink="true">https://kaizen857.github.io/2025/04/11/%E6%B5%8B%E8%AF%95%E6%96%87%E7%AB%A0/</guid>
+            <title>测试文章</title>
+            <link>https://kaizen857.github.io/2025/04/11/%E6%B5%8B%E8%AF%95%E6%96%87%E7%AB%A0/</link>
+            <category term="test" scheme="https://kaizen857.github.io/tags/test/" />
+            <pubDate>Fri, 11 Apr 2025 14:10:11 +0800</pubDate>
+            <description><![CDATA[ &lt;h1 id=&#34;测试&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#测试&#34;&gt;#&lt;/a&gt; 测试&lt;/h1&gt;
+&lt;p&gt;这是博客上的第一篇非自动生成的文章.jpg&lt;/p&gt;
+ ]]></description>
+        </item>
         <item>
             <guid isPermalink="true">https://kaizen857.github.io/2025/04/11/hello-world/</guid>
             <title>Hello World</title>

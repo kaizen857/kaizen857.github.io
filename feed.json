@@ -7,6 +7,16 @@
     "home_page_url": "https://kaizen857.github.io",
     "items": [
         {
+            "id": "https://kaizen857.github.io/2025/04/11/%E6%B5%8B%E8%AF%95%E6%96%87%E7%AB%A0/",
+            "url": "https://kaizen857.github.io/2025/04/11/%E6%B5%8B%E8%AF%95%E6%96%87%E7%AB%A0/",
+            "title": "测试文章",
+            "date_published": "2025-04-11T06:10:11.000Z",
+            "content_html": "<h1 id=\"测试\"><a class=\"anchor\" href=\"#测试\">#</a> 测试</h1>\n<p>这是博客上的第一篇非自动生成的文章.jpg</p>\n",
+            "tags": [
+                "test"
+            ]
+        },
+        {
             "id": "https://kaizen857.github.io/2025/04/11/hello-world/",
             "url": "https://kaizen857.github.io/2025/04/11/hello-world/",
             "title": "Hello World",
