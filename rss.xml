@@ -3,8 +3,8 @@
     <channel>
         <title>kaizen857のblog</title>
         <subtitle>这是一只想摸鱼的菜鸟~</subtitle>
-        <icon>https://kaizen857.github.io/project/assets/favicon.ico</icon>
-        <link>https://kaizen857.github.io/project</link>
+        <icon>https://kaizen857.github.io/kaizen857.github.io/assets/favicon.ico</icon>
+        <link>https://kaizen857.github.io/kaizen857.github.io</link>
         <author>
           <name>kaizen857</name>
         </author>
@@ -13,9 +13,9 @@
         <pubDate>Fri, 11 Apr 2025 13:34:12 +0800</pubDate>
         <lastBuildDate>Fri, 11 Apr 2025 13:34:12 +0800</lastBuildDate>
         <item>
-            <guid isPermalink="true">https://kaizen857.github.io/project/2025/04/11/hello-world/</guid>
+            <guid isPermalink="true">https://kaizen857.github.io/kaizen857.github.io/2025/04/11/hello-world/</guid>
             <title>Hello World</title>
-            <link>https://kaizen857.github.io/project/2025/04/11/hello-world/</link>
+            <link>https://kaizen857.github.io/kaizen857.github.io/2025/04/11/hello-world/</link>
             <pubDate>Fri, 11 Apr 2025 13:34:12 +0800</pubDate>
             <description><![CDATA[ &lt;p&gt;Welcome to &lt;a href=&#34;https://hexo.io/&#34;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&#34;https://hexo.io/docs/&#34;&gt;documentation&lt;/a&gt; for more info. If you get any problems when using Hexo, you can find the answer in &lt;a href=&#34;https://hexo.io/docs/troubleshooting.html&#34;&gt;troubleshooting&lt;/a&gt; or you can ask me on &lt;a href=&#34;https://github.com/hexojs/hexo/issues&#34;&gt;GitHub&lt;/a&gt;.&lt;/p&gt;
 &lt;h2 id=&#34;quick-start&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#quick-start&#34;&gt;#&lt;/a&gt; Quick Start&lt;/h2&gt;
